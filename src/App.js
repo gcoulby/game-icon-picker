@@ -28,7 +28,7 @@ class App extends Component {
         str = `game-icon game-icon-${icon}`;
         break;
       case 2:
-        str = `<i className="game-icon game-icon-${icon}"></i>`;
+        str = `<i class="game-icon game-icon-${icon}"></i>`;
         break;
       case 3:
         str = `<i className="game-icon game-icon-${icon}"></i>`;
