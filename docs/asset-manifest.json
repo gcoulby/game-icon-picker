@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/game-icon-picker/static/css/main.6f292366.chunk.css",
+    "main.js": "/game-icon-picker/static/js/main.5001e011.chunk.js",
+    "main.js.map": "/game-icon-picker/static/js/main.5001e011.chunk.js.map",
+    "runtime-main.js": "/game-icon-picker/static/js/runtime-main.2863228c.js",
+    "runtime-main.js.map": "/game-icon-picker/static/js/runtime-main.2863228c.js.map",
+    "static/css/2.3542fc70.chunk.css": "/game-icon-picker/static/css/2.3542fc70.chunk.css",
+    "static/js/2.2618ea2d.chunk.js": "/game-icon-picker/static/js/2.2618ea2d.chunk.js",
+    "static/js/2.2618ea2d.chunk.js.map": "/game-icon-picker/static/js/2.2618ea2d.chunk.js.map",
+    "static/js/3.abf64f6a.chunk.js": "/game-icon-picker/static/js/3.abf64f6a.chunk.js",
+    "static/js/3.abf64f6a.chunk.js.map": "/game-icon-picker/static/js/3.abf64f6a.chunk.js.map",
+    "index.html": "/game-icon-picker/index.html",
+    "static/css/2.3542fc70.chunk.css.map": "/game-icon-picker/static/css/2.3542fc70.chunk.css.map",
+    "static/css/main.6f292366.chunk.css.map": "/game-icon-picker/static/css/main.6f292366.chunk.css.map",
+    "static/js/2.2618ea2d.chunk.js.LICENSE.txt": "/game-icon-picker/static/js/2.2618ea2d.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/game-icon-picker/static/media/game-icons.be5d4d83.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2863228c.js",
+    "static/css/2.3542fc70.chunk.css",
+    "static/js/2.2618ea2d.chunk.js",
+    "static/css/main.6f292366.chunk.css",
+    "static/js/main.5001e011.chunk.js"
+  ]
+}
